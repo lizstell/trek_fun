@@ -1,6 +1,0 @@
-git init
-git add README.md  
-git add ds9_line_graph.ipynb
-git commit -m "notebook first commit" 
-git remote add origin https://github.com/trek_fun/ds9_line_graph.git 
-git push -u origin master 
